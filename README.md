@@ -1,6 +1,6 @@
-# ✨ hermes-skills
+# ✨ Agent Skills
 
-Hermes Agent skills by tomekdot.
+AI Agent skills by tomekdot — works with any agent (Hermes, Claude Code, Codex, OpenCode, etc.).
 
 ## 📦 Software Development
 
